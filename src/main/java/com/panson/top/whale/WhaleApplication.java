@@ -3,6 +3,9 @@ package com.panson.top.whale;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author panson
+ */
 @SpringBootApplication
 public class WhaleApplication {
 
